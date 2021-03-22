@@ -2,13 +2,13 @@
 Easiest Script to install prograns on linux ussing ppa repositorys,flatpak and snap versions.
 See about the progams:
 
-#-Flatpak
-#-Snap
+Flatpak
+Snap
 
-#-Gimp - flatpak
-#-Kdenlive - ppa
-#-Darktable
-#-Brave 
+Gimp - flatpak
+Kdenlive - ppa
+Darktable
+Brave 
 #-Blender - snap
 #-Inkscape - ppa
 #-Vscode deb
