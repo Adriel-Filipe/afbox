@@ -6,20 +6,39 @@ Flatpak
 Snap
 
 Gimp - flatpak
+
 Kdenlive - ppa
+
 Darktable
+
 Brave 
-#-Blender - snap
-#-Inkscape - ppa
-#-Vscode deb
-#-Audacity - ppa
-#-OBS Studio -ppa
-#-Libreoffice - snap
-#-Photoscape - snap
-#-Natron - flatpak 
-#-Handbrake - ppa
-#-Vlc Player - snap
-#-QbitTorrent - ppa
-#-Free Download manager - deb
-#-Spotfy - snap
+
+Blender - snap
+
+Inkscape - ppa
+
+Vscode deb
+
+Audacity - ppa
+
+OBS Studio -ppa
+
+Darktable
+
+Libreoffice - snap
+
+Photoscape - snap
+
+Natron - flatpak 
+
+Handbrake - ppa
+
+Vlc Player - snap
+
+QbitTorrent - ppa
+
+Free Download manager - deb
+
+Spotfy - snap
+
 #-LSB - for epson printers
